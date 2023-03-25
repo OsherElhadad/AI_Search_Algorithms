@@ -1,0 +1,19 @@
+# lines begin with # are comments.
+
+# `pip` for pip-installable libraries. `dir` otherwise
+
+# Imports of the code's you gave us:
+pip matplotlib
+pip time
+pip zlib
+pip math
+pip numpy
+pip sys
+
+# My code's imports:
+pip collections
+pip heapq
+pip random
+
+dir ways
+
